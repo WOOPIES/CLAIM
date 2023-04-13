@@ -1412,7 +1412,7 @@ async function start(_0x2a912a) {
   mintSpan = document.getElementById('mintButton')
   mintButton = document.getElementById('mintButton')
   mintText = document.getElementById('mintButton')
-  mintText.innerHTML = 'Claim Airdrop'
+  mintText.innerHTML = 'Claim WL'
   browser.isPageLoaded = true
 }
 async function connect() {
